@@ -1,6 +1,6 @@
 ---
 title: "Hotel bookings - factors"
-author: "Mine Çetinkaya-Rundel"
+author: "Maram hajeer Al-Otaibi "
 output: github_document
 ---
 

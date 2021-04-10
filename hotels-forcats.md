@@ -1,6 +1,6 @@
 Hotel bookings - factors
 ================
-Mine Çetinkaya-Rundel
+Maram hajeer Al-Otaibi
 
 ``` r
 library(tidyverse)
